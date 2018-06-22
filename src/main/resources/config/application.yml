@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    active: dev
+# 或者在启动参数中配置  --spring.profiles.active=dev
